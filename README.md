@@ -3,10 +3,13 @@
 ##### Usando como banco de dados o sqlite.
 ##### O designer gráfico foi criado com o módulo PyQt5 e a classe QtWidgets.
 ####
-#### Tela de Login
+####
+#### Tela de Login:
+####
 ![alt text](https://github.com/Gedionir/tela_login_python/blob/main/images/model_screen_login.jpg "Logo Title Text 1")
 ####
-#### Tela de Cadastro
+#### Tela de Cadastro:
+####
 ![alt text](https://github.com/Gedionir/tela_login_python/blob/main/images/model_screen_registration.jpg "Logo Title Text 1")
 
 
